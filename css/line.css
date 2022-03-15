@@ -3,7 +3,7 @@
 @import url(http://ts.daumcdn.net/custom/blog/0/606/skin/images/nanumgothic.css);
 
 /* reset */
-html, body, h1, h2, h3, h4, h5, h6, p {    margin: 0; padding: 0;}
+html, body, h1, h2, h3, h4, h5, h6, p {margin: 0; padding: 0;}
 a {text-decoration: none;}
 ol, ul, li {margin: 0; padding: 0; list-style-type: none;}
 i {font-style:normal; font-weight: normal;}
@@ -90,7 +90,7 @@ nav>ul.gnb>li:last-child {
 }
 nav>ul.gnb>li>a {
     display: block;
-    height: 14px;
+    height: 19px;
     color:#444;
     font-size: 0.97em;
 }
@@ -686,8 +686,6 @@ footer>.container>nav>p.fnb {
     font-size: 11px;
     text-align: center;
 }
-
-
 
 }
     
